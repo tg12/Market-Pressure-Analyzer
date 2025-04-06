@@ -2,7 +2,7 @@
 
 ## Revealing True Market Control Through Statistical Analysis
 
-![Market Analysis](https://raw.githubusercontent.com/username/Market-Pressure-Analyzer/main/assets/banner.png)
+![image](https://github.com/user-attachments/assets/77a4cba3-466e-4b64-a50f-f442eea12364)
 
 The Market Pressure Analyzer is a sophisticated analytical tool that provides insight into the underlying forces driving market movements. By examining statistical relationships in price action, the analyzer accurately identifies whether buyers or sellers are in control at any given time.
 

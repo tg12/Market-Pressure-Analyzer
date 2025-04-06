@@ -42,7 +42,8 @@ All analysis is performed locally in your browser with complete data privacy.
 
 ## Analysis Output
 
-![Sample Analysis](https://raw.githubusercontent.com/username/Market-Pressure-Analyzer/main/assets/sample-results.png)
+<img width="1619" alt="image" src="https://github.com/user-attachments/assets/14c39f50-84ba-48c6-a880-1402c9fd1058" />
+<img width="1553" alt="image" src="https://github.com/user-attachments/assets/fa9f43c8-8fe5-4ea3-9cb5-a345ff6afdc2" />
 
 The analyzer provides a detailed assessment of:
 

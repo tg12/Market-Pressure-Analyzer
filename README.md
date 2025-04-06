@@ -58,8 +58,8 @@ The analyzer provides a detailed assessment of:
 
 Two example files are included to demonstrate the analyzer's capabilities:
 
-- `example_btc_daily.csv`: Bitcoin daily price data
-- `example_spy_hourly.csv`: SPY ETF hourly price data
+- `5_day_hourly_BTC.csv`: Bitcoin Hourly price data
+- `2_day_hourly_NatGas.csv`: Nat Gas Hourly price data
 
 These examples allow immediate testing of the tool's effectiveness across different markets and timeframes.
 
